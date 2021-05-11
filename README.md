@@ -1,6 +1,6 @@
-### HelloWord! I'm Gabriel and this is my Github
+<h3 align="center">HelloWord! I'm Gabriel and this is my Github.</h3>
 
-<h3 align="center">I'm current in the 8th Semester of Information Systems at UnilaSalle-RJ./h3>
+<h3 align="center">I'm current in the 8th Semester of Information Systems at UnilaSalle-RJ.</h3>
 
 <h3 align="center">A backend developer from Brazil</h3>
 
